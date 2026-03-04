@@ -156,11 +156,10 @@ Language: Python
 
 Libraries Used:
 
-- numpy  
-- pandas  
+- collections
 - itertools  
 - random  
-- matplotlib  
+- time
 
 ---
 
